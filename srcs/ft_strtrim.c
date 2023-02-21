@@ -6,11 +6,12 @@
 /*   By: arebelo <arebelo@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/13 18:52:26 by arebelo           #+#    #+#             */
-/*   Updated: 2023/02/21 17:50:15 by arebelo          ###   ########.fr       */
+/*   Updated: 2023/02/21 17:54:11 by arebelo          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-# include "libft.h"
+#include "libft.h"
+
 static unsigned long	aux_count(char const *s1, char const *set);
 static int				aux_match(const char s, const char *set);
 

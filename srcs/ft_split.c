@@ -6,11 +6,11 @@
 /*   By: arebelo <arebelo@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/13 12:54:59 by arebelo           #+#    #+#             */
-/*   Updated: 2023/02/21 17:48:57 by arebelo          ###   ########.fr       */
+/*   Updated: 2023/02/21 17:53:50 by arebelo          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-# include "libft.h"
+#include "libft.h"
 
 static unsigned long	aux_numarray(char const *s, char c);
 static unsigned long	aux_len(const char *s, char c);
